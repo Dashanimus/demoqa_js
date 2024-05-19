@@ -1,0 +1,26 @@
+{
+  "name": "demoqa_js",
+  "version": "1.0.0",
+  "description": "Automation Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dashanimus/demoqa_js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Tests"
+  ],
+  "author": "Dashanimus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dashanimus/demoqa_js/issues"
+  },
+  "homepage": "https://github.com/Dashanimus/demoqa_js#readme",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
